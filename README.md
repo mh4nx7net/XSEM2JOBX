@@ -16,7 +16,7 @@ Dependence that load of XSEM2JOB
 <p align="center"><a href="https://rsmodart.blogspot.com"><img height="80" src="https://hyper.is/static/hyper-logo.gif"></a></p>
 
 ## Catatan
-have git installed on your machine and run $git clone https://github.com/mh4nx7net/XSEM2JOBXcandimantub.git 
+have git installed on your machine and run $git clone https://github.com/mh4nx7net/XSEM2JOBX.git 
 or you can pulled from NetBeans/atom/VisualStudio code directly delete for unuse partial of the files like 
 $XSEM2JOBXcandimantub/NetBeansProjects/JavaApplication2 #we not it! and the another's filing on ico folder 
 were we not need to, you have to know, you can delete one by one by the look at candimantub.java img addressing
