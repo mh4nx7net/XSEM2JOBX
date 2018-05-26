@@ -14,14 +14,6 @@
 Dependence that load of XSEM2JOB
 
 
-##
-## Documentation
-<p align="center">
-<a href="https://laralum.com/docs/customization"><img height="120" src="http://i.imgur.com/47WnADd.png"></a>
-</p>
-ngapunten gak ono dokumentasi khusus terkait
-
-
 ## Catatan
 have git installed on your machine and run $git clone https://github.com/mh4nx7net/XSEM2JOBXcandimantub.git 
 or you can pulled from NetBeans/atom/VisualStudio code directly delete for unuse partial of the files like 
